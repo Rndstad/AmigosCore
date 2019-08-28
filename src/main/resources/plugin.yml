@@ -1,0 +1,6 @@
+name: AmigosCore
+version: "1.0"
+description: Efficiency my friend.
+author: Randstad
+website: https://github.com/Rndstad
+main: me.rndstad.amigos.AmigosCore
